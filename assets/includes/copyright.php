@@ -1,0 +1,1 @@
+<h5>Copyright &copy;<?php echo date('Y');?> <a href="http://franklinsstore.com" target="_blank">Franklin's</a></h5>
